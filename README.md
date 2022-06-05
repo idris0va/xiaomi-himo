@@ -6,9 +6,9 @@ Realized by "From 0 to 1" - https://www.youtube.com/c/%D0%9E%D1%820%D0%B4%D0%BE1
 
 <table>
   <tr>
-    <th>Desktop</th>
-    <th>Tablet</th>
     <th>Mobile</th>
+    <th>Tablet</th>
+    <th>Desktop</th>
   </tr>
   <tr valign="top">
     <td>
@@ -18,7 +18,7 @@ Realized by "From 0 to 1" - https://www.youtube.com/c/%D0%9E%D1%820%D0%B4%D0%BE1
         <img src="images/himo-tablet.jpg">
     </td>
     <td>
-        <img src="images/himo-desktop.jpg>
+        <img src="images/himo-desktop.jpg">
     </td>
   </tr>
 </table>
