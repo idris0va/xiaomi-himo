@@ -470,6 +470,21 @@ padding-left: 10px;
    .form__bike {
     top: 45px;
    }
+
+   .menu__link,
+   .bike__link {
+    transition: all 0s;
+   }
+
+   .menu__link:hover {
+    color: var(--black);
+    background-color: transparent;
+   }
+
+   .bike__link:hover {
+    color: var(--white);
+    background-color: var(--black);
+   }
 }
 
 @media (max-width: 1110px) {
